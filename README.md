@@ -5,7 +5,7 @@ This is a two player 2d sword fighting game.
 
 ## Screenshots
 
-![App Screenshot](/relative/path/to/img/screenshot.png?raw=true "2d Fighting Game")
+![App Screenshot](/relative/path/to/img/screnshot.png?raw=true "2d Fighting Game")
 
 
 
